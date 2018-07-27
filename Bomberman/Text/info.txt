@@ -1,0 +1,40 @@
+
+
+
+
+	OPERATION OF THE GAME:
+		Bomberman's goal is to reach the surface of the earth. However, his initial point of departure is deep in the bowel of the earth,
+		so Bomberman must search for exitways and make his way upwards, level by level. Of course, enemy forces are lurking throughout
+		the labyrinth, and Bomberman must overcome each and everyone in order to advance to the next level. If he should touch any of the
+		enemy or be caught in the flames of exploding bombs, he's out for the count, so extreme caution is urged. The exitways are concealed
+		among the boxes and can only be found when all the enemies are killed, also concealed are the "power - up" panels, which Bomberman 
+		collects in order to increase his power.
+	
+		"BOMBS"
+		In the earliest stage of the game, only one bomb can be set at a time and it has very weak firepower. As "power - up" panels are 
+		taken in, the bombs easier to use and more lethal.
+	
+		"CONCRETE"
+		Concrete walls aren't damaged by bomb fires, so Bomberman can take shelter from exploding bombs.
+	
+		"BOXES"
+		These dissolve when hit by the flames of exploding bombs.
+	
+		"EXITWAYS"
+		There are to found among the boxes. After overcoming all enemies, Bomberman stands over the exitways to proceed to the next level.
+	
+		"POWER - UP PANELS"
+		These panels turn up occasionally among the explosions. There are several different types of panels with different effects:
+ 
+		"HEART" - extra life
+		"ICE CREAM" - restates the timer
+		"FIRE" - increase bomb power
+		"BOMB" - increase bomb amount
+		"SKATE" - increase Bomberman's speed
+		"POTION" - Bomberman cam walk through boxes
+
+
+
+
+
+
